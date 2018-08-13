@@ -1,0 +1,27 @@
+{
+    "productos": [
+      { "id": 1, "nombre": "Aires De Lujan Pastafrola De Membrillo X 40g X 6 Unid", "precio": 21.24 },
+      { "id": 2, "nombre": "Arcor Bocadito Bon O Bon Blanco X 30 Unid.", "precio": 121.51 },
+      { "id": 3, "nombre": "Arcor Bocadito Bon O Bon Chocolate X 30 Unid.", "precio": 121.51 },
+      { "id": 4, "nombre": "Arcor Bocadito Bon O Bon Clasico X 30 Unid.", "precio": 121.51 },
+      { "id": 5, "nombre": "Arcor Bocadito Bon O Bon Mix X 30 Unid.", "precio": 121.51 },
+      { "id": 6, "nombre": "Arcor Bocadito Dancing X 50 Unid.Arcor Bocadito Dancing X 50 Unid.", "precio": 87.30 },
+      { "id": 7, "nombre": "Arcor Bocaditos Butter Toffes Dulce De Leche X 24 Unid.", "precio": 70.68 },
+      { "id": 8, "nombre": "Arcor Bocaditos Seleccion X 258g", "precio": 66.48 },
+      { "id": 9, "nombre": "Arcor Bombon Cabsha X 48 Unid.", "precio": 195.00},
+      { "id": 10, "nombre": "Arcor Bombon De Fruta X 450g", "precio": 78.74 },
+      { "id": 11, "nombre": "Arcor Bombon Hamlet X 30 Unid", "precio": 71.59 },
+      { "id": 12, "nombre": "Arcor Caramelos Alka Cherry X Kg", "precio": 71.59 },
+      { "id": 13, "nombre": "Arcor Caramelos Alka Menta X Kg", "precio": 71.59 },
+      { "id": 14, "nombre": "Arcor Caramelos Alka Strong X Kg", "precio": 71.59 },
+      { "id": 15, "nombre": "Arcor Caramelos Bastón Viena X 470g", "precio": 71.59 },
+      { "id": 16, "nombre": "Arcor Caramelos Bc X 420g", "precio": 71.59 },
+      { "id": 17, "nombre": "Arcor Caramelos Butter Toffees Black Mint X Kg", "precio": 71.59 }
+    ],
+    "clientes":[
+      {"id": 1, "nombre":"Perez S.A", "telefono": "4546-8974", "direccion": "Varela 90", "tipoDocumento" : "CUIT", "nro": "56-55589465-6", "deuda": "200000.00"},
+      {"id": 2, "nombre":"Supermercado Xi", "telefono": "4895-6872", "direccion": "Rivadavia 8200", "tipoDocumento" : "CUIT", "nro": "86-20356745-6", "deuda": ""},
+      {"id": 3, "nombre":"Centro de Compras Caballito", "telefono": "4256-8521", "direccion": "Yerbal 90", "tipoDocumento" : "CUIT", "nro": "78-33564852-3", "deuda": ""},
+      {"id": 4, "nombre":"Kiosco EL JEVY", "telefono": "7812-7891", "direccion": "Acoyte 60", "tipoDocumento" : "CUIT", "nro": "45-12356946-1", "deuda": "90"}
+    ]
+  }
