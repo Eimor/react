@@ -15,7 +15,7 @@
    
  **http://localhost:3004/**
 
-## 3- Para iniciar la pagina web ir a la carpeta "../venta-productos" y ejecutar el siguiente comando:
+#### 3- Para iniciar la pagina web ir a la carpeta "../venta-productos" y ejecutar el siguiente comando:
 
 **npm install**
 
