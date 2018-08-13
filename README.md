@@ -25,8 +25,8 @@
 
 #### Página de busqueda de clientes:
 
-**Cliente con deuda: 56-55589465-6
+**Cliente con deuda: 56-55589465-6**
 
-**Cliente no existente: asd23f
+**Cliente no existente: asd23f**
 
-**Cliente sin deuda: 86-20356745-6
+**Cliente sin deuda: 86-20356745-6**
