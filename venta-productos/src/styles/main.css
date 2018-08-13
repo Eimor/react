@@ -1,0 +1,129 @@
+/* Color vars */
+.search-box,
+.product-search-input {
+  display: inline-block;
+  width: 100%;
+  border-radius: 3px;
+  position: relative;
+  background: #fff;
+  border: 1px solid #ddd;
+  transition: all 200ms ease-in-out;
+}
+.search-box.hovered, .search-box:hover, .search-box:active,
+.product-search-input.hovered,
+.product-search-input:hover,
+.product-search-input:active {
+  border: 1px solid #aaa;
+}
+.search-box input[type=text],
+.product-search-input input[type=text] {
+  border: none;
+  box-shadow: none;
+  display: inline-block;
+  padding: 0;
+  background: transparent;
+}
+.search-box input[type=text]:hover, .search-box input[type=text]:focus, .search-box input[type=text]:active,
+.product-search-input input[type=text]:hover,
+.product-search-input input[type=text]:focus,
+.product-search-input input[type=text]:active {
+  box-shadow: none;
+}
+.search-box .search-box-input,
+.product-search-input .search-box-input {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin: 2px 2px 2px 20px;
+}
+.search-box .search-box-input input,
+.product-search-input .search-box-input input {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: calc(100% - 49px);
+  left: 0;
+  padding-left: 20px;
+}
+.search-box .search-btn,
+.product-search-input .search-btn {
+  color: #aaa;
+  border-radius: 3px;
+  font-size: 21px;
+  padding: 5px 10px 1px;
+  transition: all 200ms ease-in-out;
+}
+.search-box .search-btn:hover,
+.product-search-input .search-btn:hover {
+  color: #fff;
+  background-color: #8FBE00;
+}
+
+.product-search-input {
+  margin-bottom: 20px;
+}
+.product-search-input input {
+  width: 100%;
+  height: 40px;
+  border: none;
+  padding-left: 10px;
+}
+
+.table-results-totals {
+  width: 50%;
+  font-weight: bold;
+}
+
+.table-totals-title {
+  color: #8FCB9B;
+  margin-top: 20px;
+}
+
+/* Utility classes */
+.m0 {
+  margin: 0;
+}
+
+.mb20 {
+  margin-bottom: 20px;
+}
+
+.mt20 {
+  margin-top: 20px;
+}
+
+body {
+  min-height: 100vh;
+  background: #878082;
+  background: linear-gradient(0deg, rgba(135, 128, 130, 0.8883928571) 0%, #f6f6f6 50%);
+}
+
+.main-wrapper {
+  margin: 30px auto;
+  max-width: 950px;
+}
+.main-wrapper .main-title {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  color: #8FCB9B;
+  margin-bottom: 20px;
+}
+
+.panel-wrapper .panel-heading {
+  padding: 20px;
+  font-size: 1.3em;
+  color: #61707D;
+}
+
+.step-content {
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.step-content .step-button-wrapper {
+  align-self: flex-end;
+  margin-right: 20px;
+}
+
+/*# sourceMappingURL=main.css.map */
